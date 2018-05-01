@@ -9,6 +9,7 @@ const contributors = [
   {
     name: 'Raoul de Limézy',
     // href: '', /* optional */
+    // Modification TEST
   }
 ];
 
